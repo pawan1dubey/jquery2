@@ -1,0 +1,40 @@
+.container{
+
+height: 240px;
+width: 50%;
+background-color: #E5E7E9;
+ position: absolute;
+    top: 30px;
+    right: 30%;
+border : 1px solid green;
+box-shadow: 10px 10px 8px 10px #888888;
+}
+
+#top{
+
+height: 30%;
+
+}
+
+#middle{
+
+height: 30%;
+
+}
+
+#bottom{
+
+height: 40%;
+
+}
+
+#modalbtn{
+
+border: none;
+outline: none;
+height: 30px;
+width: 200px;
+cursor: pointer;
+background-color: #FFA07A;
+
+}
